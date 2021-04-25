@@ -13,3 +13,9 @@ Policy Evaluation과 Policy Improvement에도 수식적 유도가 있었는데, 
 단단한 강화학습 책 공부 3일째. Sutton 원서와 같은 책인 것 같음.  
 10-armed testbed에 대해서 공부 했고, 이에 대해 reward를 추정하고 행동 결정 방법 중 표본 평균부터 UCB, Gradient 등의 방법을 공부하고 구현까지 했음.
 Practice 2.5, Practice 2.10 구현. https://github.com/yhy258/ReinforceLearning-Study/blob/main/ReinforcemenLearning_ch2.ipynb  
+![image](https://user-images.githubusercontent.com/33916246/115985405-b0129100-a5e6-11eb-91cd-03cf737031bc.png)
+![image](https://user-images.githubusercontent.com/33916246/115985406-b274eb00-a5e6-11eb-9b92-f442069b635a.png)
+![image](https://user-images.githubusercontent.com/33916246/115985407-b4d74500-a5e6-11eb-9316-1cbf43dd4147.png)  
+practice 2.10은 살짝 간이형식임..  
+
+
