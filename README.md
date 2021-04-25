@@ -7,3 +7,9 @@ State-value function & Action-value function 이렇게..
 
 Planning에서의 Dynamic Problem 공부. -> Policy Iteration 사용  
 Policy Evaluation과 Policy Improvement에도 수식적 유도가 있었는데, 내일 한번 다시 봐보자.  
+
+  
+## 2021/04/25  
+단단한 강화학습 책 공부 3일째. Sutton 원서와 같은 책인 것 같음.  
+10-armed testbed에 대해서 공부 했고, 이에 대해 reward를 추정하고 행동 결정 방법 중 표본 평균부터 UCB, Gradient 등의 방법을 공부하고 구현까지 했음.
+Practice 2.5, Practice 2.10 구현. https://github.com/yhy258/ReinforceLearning-Study/blob/main/ReinforcemenLearning_ch2.ipynb  
