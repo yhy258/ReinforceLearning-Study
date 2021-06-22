@@ -19,3 +19,6 @@ Practice 2.5, Practice 2.10 구현. https://github.com/yhy258/ReinforceLearning-
 practice 2.10은 살짝 간이형식임..  
 
 
+## 2021/06/22  
+두달만에 공부. 다시 처음부터 했음. 위에 적힌 부분까지 했는데, 내가 스스로 전부 코딩함.  
+제대로 돌아가서 기분이 좋았당 ㅎㅎ  https://github.com/yhy258/ReinforceLearning-Study/tree/main/Sutton/10Armed
